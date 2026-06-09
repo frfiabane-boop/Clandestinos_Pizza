@@ -1,0 +1,6 @@
+{
+  "name": "Clandestinos Pizza",
+  "description": "Sistema de gestión de inventario, stock, proveedores, recetas y usuarios para Clandestinos Pizza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
